@@ -10,8 +10,8 @@
 	
 	<scm>
 		<url>https://github.com/sathyamus/RESTfulExample</url>
-		<connection>scm:git:git://github.com/sathyamus/RESTfulExample.git</connection>
-		<developerConnection>scm:git:git@github.com:sathyamus/RESTfulExample.git</developerConnection>
+		<connection>scm:git:ssh://github.com/sathyamus/RESTfulExample.git</connection>
+		<developerConnection>scm:git:ssh@github.com:sathyamus/RESTfulExample.git</developerConnection>
 	</scm>
 	
 	<dependencies>
