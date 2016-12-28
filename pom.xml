@@ -7,6 +7,13 @@
 	<version>1.0-SNAPSHOT</version>
 	<name>RESTfulExample Maven Git Webapp</name>
 	<url>http://maven.apache.org</url>
+	
+	<scm>
+		<url>https://github.com/sathyamus/RESTfulExample</url>
+		<connection>scm:git:git://github.com/sathyamus/RESTfulExample.git</connection>
+		<developerConnection>scm:git:git@github.com:sathyamus/RESTfulExample.git</developerConnection>
+	</scm>
+	
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
