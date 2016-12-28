@@ -14,6 +14,7 @@
 		<developerConnection>scm:git:ssh@github.com:sathyamus/RESTfulExample.git</developerConnection>
 	</scm>
 	
+	<build>
 	<plugins>
 	
 	<plugin>
@@ -24,6 +25,7 @@
     		</configuration>
 	</plugin>
 	</plugins>
+	</build>
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
